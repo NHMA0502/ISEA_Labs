@@ -1,4 +1,4 @@
-Create an Ubuntu VM on AWS and install Apache, ending with testing the default Apache landing page.
+# Part A: Create an Ubuntu VM on AWS and install Apache, ending with testing the default Apache landing page.
 
 Create Amazon EC2 web services account and launch an instance
 
@@ -43,10 +43,27 @@ Once I have completed everything, I stop the AWS EC2 instances in order to preve
 
 
 
+# Part B - Azure account signups and Create a Linux Virtual Machine (Azure) 
+
+<img width="800" height="447" alt="Azure" src="https://github.com/user-attachments/assets/330227f9-4ebf-40cf-9810-09605dee87a6" />
+
+<img width="800" height="600" alt="Screenshot 2026-06-17 055045" src="https://github.com/user-attachments/assets/542bc793-c61f-4c0a-aff1-f72921193d09" />
+
+<img width="800" height="600" alt="Screenshot 2026-06-17 055216" src="https://github.com/user-attachments/assets/c4e1eb7c-78c9-49fd-9a14-834b73e7e506" />
+
+Customizing the webpage and this time I did not forget about the sudo.
+
+<img width="800" height="426" alt="Screenshot 2026-06-17 055421" src="https://github.com/user-attachments/assets/6992f40b-5456-4c51-b7ac-d5dd724fd2fe" />
+
+<img width="800" height="486" alt="Screenshot 2026-06-17 055654" src="https://github.com/user-attachments/assets/9b9772de-846d-44b5-b24f-e16d6a70f926" />
+
+After completed, I stop the azure VM to prevent incurring charges.
+
+<img width="800" height="331" alt="Screenshot 2026-06-17 060155" src="https://github.com/user-attachments/assets/50176f6b-d912-4608-b513-3a617352fd91" />
+
+
 
 What did I learn from this lab? 
-AWS EC2 allows users to create virtual servers in the cloud while SSH provides secure remote access to Linux servers.
+AWS EC2 and Azure allows users to create virtual servers in the cloud while SSH provides secure remote access to Linux servers. I get to practice both and what I had learnt, they both work almost the same way. 
 Apache can host websites accessible through a public IP address and also security groups act as firewalls by controlling network traffic.
-Ubuntu Server is a lightweight Linux operating system suitable for web hostin
-
-
+Ubuntu Server is a lightweight Linux operating system suitable for web hosting
